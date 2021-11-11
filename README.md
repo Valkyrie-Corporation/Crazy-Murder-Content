@@ -1,7 +1,7 @@
-# 👑 Crazy-Murder-Content [![GitHub version](https://img.shields.io/badge/version-v1.0-blue.svg)](https://crazy-murder.gsfd.zone)
+# 👑 Crazy-Murder-Content [![GitHub version](https://img.shields.io/badge/version-v1.0-blue.svg)](https://crazy-murder.gsfd.zone) (🇫🇷 french community)
 *GMOD Content Installer*
 
-![image](https://user-images.githubusercontent.com/20164459/141357552-2ea5d074-cf06-491e-90ce-2bb22a07adc9.png)
+![image](https://user-images.githubusercontent.com/20164459/141358281-a6d4483d-9910-4f02-af57-113d1d8d3be1.png)
 
 ## :blue_book: Getting Started
 1. You need administrator permission to execute the sctipt.

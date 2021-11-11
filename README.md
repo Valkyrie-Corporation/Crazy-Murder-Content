@@ -1,9 +1,18 @@
-# Crazy-Murder-Content
-GMOD Content Installer
+# 👑 Crazy-Murder-Content [![GitHub version](https://img.shields.io/badge/version-v1.0-blue.svg)](https://crazy-murder.gsfd.zone)
+*GMOD Content Installer*
+
+![image](https://user-images.githubusercontent.com/20164459/141357552-2ea5d074-cf06-491e-90ce-2bb22a07adc9.png)
+
+## :blue_book: Getting Started
+1. You need administrator permission to execute the sctipt.
+2. Run the batch script
+
+## :computer: Demo
+![image](https://user-images.githubusercontent.com/20164459/141357552-2ea5d074-cf06-491e-90ce-2bb22a07adc9.png)
 
 ## License
 
-&copy; 2021 Games Feeder
+Games Feeder &copy; 2013-2021. All Rights Reserved.
 
 For any part of this work for which the license is applicable, this work is licensed under the [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/) license. See LICENSE.CC-BY-NC-ND-4.0.
 

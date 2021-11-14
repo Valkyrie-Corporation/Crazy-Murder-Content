@@ -1,7 +1,6 @@
 <p align="center">
   <img width="128" height="128" src="https://user-images.githubusercontent.com/20164459/141696052-c013f7e3-f467-4e7c-ade3-84f6af7b5a4e.png">
 </p>
-
 # 👑 Crazy-Murder-Content [![GitHub version](https://img.shields.io/badge/version-v1.0-blue.svg)](https://crazy-murder.gsfd.zone) (🇫🇷 french community)
 *GMOD Content Installer*
 

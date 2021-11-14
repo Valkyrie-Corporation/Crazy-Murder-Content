@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="128" height="128" src="https://user-images.githubusercontent.com/20164459/141696052-c013f7e3-f467-4e7c-ade3-84f6af7b5a4e.png">
+</p>
+
 # 👑 Crazy-Murder-Content [![GitHub version](https://img.shields.io/badge/version-v1.0-blue.svg)](https://crazy-murder.gsfd.zone) (🇫🇷 french community)
 *GMOD Content Installer*
 
@@ -9,6 +13,11 @@
 
 ## :computer: Demo
 ![image](https://user-images.githubusercontent.com/20164459/141357552-2ea5d074-cf06-491e-90ce-2bb22a07adc9.png)
+
+## 🌟 STEAM Crazy Murder Workshop Collection
+![addons](https://user-images.githubusercontent.com/20164459/141697197-1f660427-0eba-41b4-a6c8-64775fbb1115.gif)
+1. Install it with the main script
+2. Or use this url : https://steamcommunity.com/sharedfiles/filedetails/?id=646330310
 
 ## License
 
